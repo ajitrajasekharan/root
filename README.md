@@ -2,11 +2,13 @@ This BERT based POS tagger is derived almost entirely on https://github.com/Kyub
 
 https://github.com/Kyubyong/nlp_made_easy
 
-Requirements
+**Requirements**
 
-Pytorch
-Pyotrch pre-trained BERT
-nltk
-Data
+- Pytorch
+- Pyotrch pre-trained BERT
+- nltk
 
-Automatically fetches training data using nltk
+
+**Data**
+
+- Automatically fetches training data using nltk
