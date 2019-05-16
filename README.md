@@ -5,7 +5,7 @@ https://github.com/Kyubyong/nlp_made_easy
 **Requirements**
 
 - Pytorch (conda install -c pytorch pytorch)
-- Pyotrch pre-trained BERT . (pip install pytorch-pretrained-bert)
+- Pytorch pre-trained BERT . (pip install pytorch-pretrained-bert)
 - nltk (pip install nltk)
 
 
