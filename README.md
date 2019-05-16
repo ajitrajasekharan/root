@@ -12,3 +12,12 @@ https://github.com/Kyubyong/nlp_made_easy
 **Data**
 
 - Automatically fetches treenbank training data using nltk (when running first time, it will prompt you to install treebank. This can from within python prompt in command line)
+
+
+**Usage**
+
+1. Create a directory my_model
+
+2. python bert_post_train.py . (this will result in training with accuracy 98%)
+
+3. To test. python bert_post_test.py
