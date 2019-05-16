@@ -4,11 +4,11 @@ https://github.com/Kyubyong/nlp_made_easy
 
 **Requirements**
 
-- Pytorch
-- Pyotrch pre-trained BERT
-- nltk
+- Pytorch (conda install -c pytorch pytorch)
+- Pyotrch pre-trained BERT . (pip install pytorch-pretrained-bert)
+- nltk (pip install nltk)
 
 
 **Data**
 
-- Automatically fetches training data using nltk
+- Automatically fetches treenbank training data using nltk (when running first time, it will prompt you to install treebank. This ca from within python prompt in command line)
