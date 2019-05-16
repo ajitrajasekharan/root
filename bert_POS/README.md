@@ -6,7 +6,9 @@ https://github.com/Kyubyong/nlp_made_easy
 Requirements
 
 Pytorch
+
 Pyotrch pre-trained BERT
+
 nltk
 
 Data 
