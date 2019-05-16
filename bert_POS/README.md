@@ -8,3 +8,6 @@ Requirements
 Pytorch
 Pyotrch pre-trained BERT
 nltk
+
+Data 
+Automatically fetches training data using nltk
