@@ -5,10 +5,10 @@ https://github.com/Kyubyong/nlp_made_easy
 
 **Requirements**
 
--Pytorch
--Pyotrch pre-trained BERT
--nltk
+- Pytorch
+- Pyotrch pre-trained BERT
+- nltk
 
 **Data**
 
--Automatically fetches training data using nltk
+- Automatically fetches training data using nltk
