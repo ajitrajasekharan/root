@@ -26,4 +26,5 @@ __Output__:   _[('The', 'DT'), ('bird', 'NN'), ('flew', 'VBD'), ('over', 'IN'), 
 
 
 **License**
+
 MIT License
