@@ -4,3 +4,5 @@ bert_POS/.bert_post_train.py.swp
 bert_POS/__pycache__/bert_post_common.cpython-36.pyc
 bert_POS/my_model/tags.pkl
 bert_POS/result
+bert_POS/ajits_model/pytorch_model.bin
+bert_POS/ajits_model/tags.pkl
