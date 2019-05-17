@@ -25,6 +25,7 @@ __Example input:__ _The bird flew over the house and perched on a tree_
 __Output__:   _[('The', 'DT'), ('bird', 'NN'), ('flew', 'VBD'), ('over', 'IN'), ('the', 'DT'), ('house', 'NN'), ('and', 'CC'), ('perched', 'VBD'), ('on', 'IN'), ('a', 'DT'), ('tree', 'NN')]_
 
 
+
 **License**
 
 MIT License
