@@ -16,9 +16,9 @@ https://github.com/Kyubyong/nlp_made_easy
 
 **Usage**
 
-1. To train. _python bert_post_train.py <model dir to save. e.g. out>_ . (this will result in training with accuracy ~98%)
+1. To train. _python bert_post_train.py < model dir to save. e.g. out >_ . (this will result in training with accuracy ~98%)
 
-3. To test. _python bert_post_test.py <model dir to load>_
+3. To test. _python bert_post_test.py < model dir to load >_
 
 __Example input:__ _The bird flew over the house and perched on a tree_
 
