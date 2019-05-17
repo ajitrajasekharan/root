@@ -20,9 +20,9 @@ https://github.com/Kyubyong/nlp_made_easy
 
 3. To test. _python bert_post_test.py < model dir to load >_
 
-__Example input:__ _The bird flew over the house and perched on a tree_
+    __Example input:__ _The bird flew over the house and perched on a tree_
 
-__Output__:   _[('The', 'DT'), ('bird', 'NN'), ('flew', 'VBD'), ('over', 'IN'), ('the', 'DT'), ('house', 'NN'), ('and', 'CC'), ('perched', 'VBD'), ('on', 'IN'), ('a', 'DT'), ('tree', 'NN')]_
+    __Output__:   _[('The', 'DT'), ('bird', 'NN'), ('flew', 'VBD'), ('over', 'IN'), ('the', 'DT'), ('house', 'NN'), ('and', 'CC'), ('perched', 'VBD'), ('on', 'IN'), ('a', 'DT'), ('tree', 'NN')]_
 
 
 
