@@ -11,7 +11,7 @@ https://github.com/Kyubyong/nlp_made_easy
 
 **Data**
 
-- Automatically fetches treenbank training data using nltk (when running first time, it will prompt  to install treebank. This can from within python prompt in command line)
+- Automatically fetches treebank training data using nltk _(when running first time, it will prompt  to install treebank. This can from within python prompt in command line)_
 
 
 **Usage**
