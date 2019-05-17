@@ -21,5 +21,8 @@ https://github.com/Kyubyong/nlp_made_easy
 2. python bert_post_train.py . (this will result in training with accuracy 98%)
 
 3. To test. python bert_post_test.py
-Example input: The bird flew over the house and perched on a tree
+Example input: 
+
+The bird flew over the house and perched on a tree
+
 Output:[('The', 'DT'), ('bird', 'NN'), ('flew', 'VBD'), ('over', 'IN'), ('the', 'DT'), ('house', 'NN'), ('and', 'CC'), ('perched', 'VBD'), ('on', 'IN'), ('a', 'DT'), ('tree', 'NN')]
